@@ -1,1 +1,3 @@
 # DataLeakageDetection
+
+ In this project, my goal is to detect when the distributor’s sensitive data have been leaked by agents, and if possible, to identify the agent that leaked the data. An algorithm is used to distribute the objects to agents that improves the chances of identifying a leaker. Realistic but fake objects is injected to the distributive set. The objects are designed which appear realistic, and are distributed among the agents along with the original objects. Different fake objects may be added to the data sets of different agents in order to increase the chances of detecting agents that leak data.
